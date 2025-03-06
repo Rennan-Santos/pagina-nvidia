@@ -2,7 +2,7 @@
 ![pagina-nvidia](https://github.com/user-attachments/assets/e3916c23-0968-4185-b6a4-1be2f8002535)<p align="center">
 `Rennan Santos`
 
-## `Apresentação`
+# Apresentação
 Esse projeto foi feito por mim como atividade curricular da faculdade quando eu estava me familiarizando com as linguagens HTML e CSS. O objetivo era criar um projeto que tivesse 3 páginas acessíveis através do Header. 
 Escolhi o tema NVvidia e me inspirei na página oficial deles. 
 
